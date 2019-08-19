@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  background: #FFBAAA;
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+
+div {
+  font-size: 8em;
+}
+#hours{
+  color: crimson
+}
+#minutes{
+  color: lightblue
+}
+
+#seconds{
+  color: lightgreen
+}
+
+p {
+  display: inline;
 }
